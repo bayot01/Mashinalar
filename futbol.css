@@ -1,0 +1,93 @@
+.sport {
+  color: #333;
+
+  /* font-size: 1rem; */
+}
+
+.sport:hover {
+  color: #333;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.r666 {
+  color: #666;
+}
+
+.r666:hover {
+  color: #666;
+}
+
+.log {
+  background-color: #fff;
+}
+
+.top {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCulCFrTEfKA1fZSGKdUB7RiRehpUDx9r9Bg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+.rasm {
+  width: 30%;
+}
+
+.fff {
+  color: #fff;
+}
+
+main {
+  background-color: rgb(200, 200, 224);
+}
+
+.bc {
+  height: 35vh;
+}
+
+.fff:hover {
+  color: #fff;
+}
+
+.rw {
+  width: 30%;
+}
+
+.r000 {
+  color: #000;
+}
+
+.r000:hover {
+  color: #000;
+}
+
+
+.katta {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(5, 1fr);     
+  grid-gap: 2rem;
+}
+
+@media (max-width:576px) {
+  .katta {
+    /* display: grid; */
+    grid-template-columns:1fr;
+  }
+}
+
+
+.futboltv {
+  background-color: blue;
+  color: #fff;
+}
+
+.futboltv:hover {
+  color: #000;
+}
+
+.fh {
+  min-height: 50vh;
+}

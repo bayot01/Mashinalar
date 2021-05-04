@@ -1,0 +1,81 @@
+.sport {
+  color: #333;
+}
+
+.sport:hover {
+  color: #333;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.r666 {
+  color: #666;
+}
+
+.r666:hover {
+  color: #666;
+}
+
+.log {
+  background-color: #fff;
+}
+
+.wedo {
+  color: blue;
+}
+
+.wedo:hover {
+  color: blue;
+}
+
+.our {
+  width: 30%;
+}
+
+.div {
+  width: 30%;
+}
+
+.servise {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnSxYqY44W98hbfT3fRtZBKm6UE4Tu4pkrA&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 80vh;
+  background-position: center;
+}
+
+footer {
+  background-color: rgb(28, 28, 235);
+}
+
+.sit {
+  max-height: 90vh;
+}
+
+.b0 {
+  left: 10rem;
+  bottom: 5rem;
+}
+
+.r999 {
+  color: #999;
+}
+
+.r999:hover {
+  color: #999;
+}
+
+.know {
+  background-color: rgb(150, 221, 42);
+  border: none;
+}
+
+.fff {
+  color: #fff;
+}
+
+.fff:hover {
+  color: #fff;
+}

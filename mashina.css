@@ -1,0 +1,42 @@
+.sport {
+  color: #333;
+
+  /* font-size: 1rem; */
+}
+
+.sport:hover {
+  color: #333;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.r666 {
+  color: #666;
+}
+
+.r666:hover {
+  color: #666;
+}
+
+.log {
+  background-color: #fff;
+}
+
+.servise {
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4F8kpk5CFHQCdTNufhr5uGUQwNqfw6a-Nrg&usqp=CAU); */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ902wV7JWsWttz38z6Ks0mJh3M3ZZlLo02Bg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+  min-height: 100vh;
+}
+
+.fff {
+  color: #fff;
+}
+
+.fff:hover {
+  color: #fff;
+}
