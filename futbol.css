@@ -73,11 +73,9 @@ main {
 
 @media (max-width:576px) {
   .katta {
-    /* display: grid; */
     grid-template-columns:1fr;
   }
 }
-
 
 .futboltv {
   background-color: blue;
@@ -90,4 +88,17 @@ main {
 
 .fh {
   min-height: 50vh;
+}
+
+
+footer {
+  background-color: rgb(28, 28, 235);
+}
+
+.r999 {
+  color: #999;
+}
+
+.r999:hover {
+  color: #999;
 }

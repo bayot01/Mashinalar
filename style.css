@@ -79,3 +79,68 @@ footer {
 .fff:hover {
   color: #fff;
 }
+
+.div1 {
+  background-image:linear-gradient(rgba(38, 0, 255, 0.4), rgba(50,18,231, 0.4) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl01AEaydSLy6thQNk-kEpu1p5fQ7nUWmkMQ&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div3 {
+  background-image:linear-gradient(rgba(38, 0, 255, 0.4), rgba(50,18,231, 0.4) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDb-2Rk6u_cFc_9qC1au09Zly71krvvx62w&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div5 {
+  background-image:linear-gradient(rgba(38, 0, 255, 0.4), rgba(50,18,231, 0.4) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZz4HVH8gk_v_L-Rah8uVaxAM3DeW2RT14A&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div2 {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhdkGDR_5kK1Y9wO5Zy54Qc3WH05k__fa6A&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div4 {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxadbKASsl_aeoSAIeN8lX7TSjN8a9FktaTw&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div6 {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNqTzbxMBKWTeZPDw8lFNIbcB-jXxdrFUCQ&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.katta2 div {
+  width: 100%;
+  height: 30vh;
+  display: grid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.katta2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 1rem;
+  width: 100%;
+}
+
+/* .katta7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} */
