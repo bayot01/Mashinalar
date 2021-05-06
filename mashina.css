@@ -56,3 +56,9 @@ footer {
 .p3 {
   background-color: rgb(9, 9, 201);
 } 
+
+.narx {
+  border-radius: 5px;
+  background-color: black;
+  color: #fff;
+}
